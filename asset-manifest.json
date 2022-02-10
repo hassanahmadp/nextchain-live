@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "/nextchain-live/static/css/main.42433736.chunk.css",
+    "main.js": "/nextchain-live/static/js/main.bbf65939.chunk.js",
+    "main.js.map": "/nextchain-live/static/js/main.bbf65939.chunk.js.map",
+    "runtime-main.js": "/nextchain-live/static/js/runtime-main.655ad37d.js",
+    "runtime-main.js.map": "/nextchain-live/static/js/runtime-main.655ad37d.js.map",
+    "static/js/2.7473484f.chunk.js": "/nextchain-live/static/js/2.7473484f.chunk.js",
+    "static/js/2.7473484f.chunk.js.map": "/nextchain-live/static/js/2.7473484f.chunk.js.map",
+    "static/js/3.69e8b260.chunk.js": "/nextchain-live/static/js/3.69e8b260.chunk.js",
+    "static/js/3.69e8b260.chunk.js.map": "/nextchain-live/static/js/3.69e8b260.chunk.js.map",
+    "index.html": "/nextchain-live/index.html",
+    "static/css/main.42433736.chunk.css.map": "/nextchain-live/static/css/main.42433736.chunk.css.map",
+    "static/js/2.7473484f.chunk.js.LICENSE.txt": "/nextchain-live/static/js/2.7473484f.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.655ad37d.js",
+    "static/js/2.7473484f.chunk.js",
+    "static/css/main.42433736.chunk.css",
+    "static/js/main.bbf65939.chunk.js"
+  ]
+}
